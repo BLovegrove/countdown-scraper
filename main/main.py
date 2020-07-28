@@ -53,8 +53,7 @@ for line in receipt:
     # Increment line number index
     lineIndex += 1
 
-    
-
+    # Debug messages
 print(names)
 
 print('')
