@@ -1,3 +1,6 @@
+from tabulate import tabulate
+import os
+
 # Product name class used in receipt table
 PRODUCT_NAME_TAG = 'product-name'
 
@@ -5,7 +8,7 @@ PRODUCT_NAME_TAG = 'product-name'
 PRODUCT_TOTAL_TAG = 'col-total price'
 
 # Opens the receipt and virtualises file
-receipt = open('resources/sample_004.txt')
+receipt = open('resources/sample_001.txt')
 
 # Closest start and end line for shopping receipt data
 startLine = 0
@@ -53,9 +56,12 @@ for line in receipt:
     # Increment line number index
     lineIndex += 1
 
-    # Debug messages
-print(names)
 
-print('')
+# Debug messages
+rows = []
+for i in range(0, len(names)):
+    rows.append([names[i], '$' + str(costs[i])])
 
-print(costs)
+os.system('cls' if os.name == 'nt' else 'clear')
+
+print(tabulate(rows, headers=['Item name', 'Total price']))
