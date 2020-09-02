@@ -1,0 +1,22 @@
+{
+	"recepit" : [
+		{
+			"item" : [
+				{
+					"unit price" : "cost float",
+					"quantity" : "int for units, float for weight", 
+					"total price" : "cost float"
+				}
+			]
+		}
+	],
+	"breakdown" : [
+		{
+			"name" : [
+				{
+					"item" : "fraction"
+				}
+			]
+		}
+	]
+}

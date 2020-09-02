@@ -1,0 +1,52 @@
+{
+  "Matthew": [
+    {
+      "countdown wraps white 10pk": 1,
+      "instore bakery ciabatta pockets 10pk": 0,
+      "fresh produce fruit juice fresh lime 245ml": 0.5,
+      "l'or espresso coffee capsules onyx 20pk": 0,
+      "raro sachet drink mix sweet navel orange 240g 3pk": 0,
+      "vitasoy soy milk protein plus 1l": 1,
+      "countdown milk standard 3l": 0,
+      "instore deli verkerks salami sliced chorizo per kg": 0,
+      "yoplait 2 x protein yoghurt tub greek coconut 900g": 1,
+      "countdown frozen blueberries 1kg": 1,
+      "fresh produce avocado": 1,
+      "fresh produce bananas organic fair trade 850g": 1,
+      "fresh produce broccoli head": 1,
+      "fresh produce capsicum green": 1,
+      "fresh produce cucumbers lebanese": 1,
+      "fresh produce lettuce traditional iceberg": 0,
+      "fresh produce mushrooms white button per kg": 1,
+      "chelsea golden syrup 540g": 0,
+      "countdown brown sugar 500g": 0,
+      "harraways rolled oats 1.5kg": 0.5,
+      "sanitarium marmite yeast spread 500g": 1
+    }
+  ],
+  "Brandon": [
+    {
+      "countdown wraps white 10pk": 0,
+      "instore bakery ciabatta pockets 10pk": 1,
+      "fresh produce fruit juice fresh lime 245ml": 0.5,
+      "l'or espresso coffee capsules onyx 20pk": 1,
+      "raro sachet drink mix sweet navel orange 240g 3pk": 1,
+      "vitasoy soy milk protein plus 1l": 0,
+      "countdown milk standard 3l": 1,
+      "instore deli verkerks salami sliced chorizo per kg": 1,
+      "yoplait 2 x protein yoghurt tub greek coconut 900g": 0,
+      "countdown frozen blueberries 1kg": 0,
+      "fresh produce avocado": 0,
+      "fresh produce bananas organic fair trade 850g": 0,
+      "fresh produce broccoli head": 0,
+      "fresh produce capsicum green": 0,
+      "fresh produce cucumbers lebanese": 0,
+      "fresh produce lettuce traditional iceberg": 1,
+      "fresh produce mushrooms white button per kg": 0,
+      "chelsea golden syrup 540g": 1,
+      "countdown brown sugar 500g": 1,
+      "harraways rolled oats 1.5kg": 0.5,
+      "sanitarium marmite yeast spread 500g": 0
+    }
+  ]
+}

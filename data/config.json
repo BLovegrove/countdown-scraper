@@ -1,0 +1,10 @@
+{
+	"tags" : [
+		{
+			"product name" : "product-name",
+			"unit cost" : "col-price price",
+			"quantity" : "col-quantity",
+			"total cost" : "col-total price"
+		}
+	]
+}
